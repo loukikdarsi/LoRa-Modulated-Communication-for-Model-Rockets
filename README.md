@@ -27,6 +27,8 @@ LoRa is particularly well-suited for applications in the Internet of Things (IoT
 - Other Consumables (Jumper Wires, Breadboard, LEDs, Resistors)
 
 ## Circuit Diagram
+![Circuit Diagram](LoRa_Circuit_Diagram.png)
+
 This is the representation of the ideal circuit diagram for a model rocket’s communication system.
 
 **Note:** A few changes have been made in the actual implementation due to competition constraints:
